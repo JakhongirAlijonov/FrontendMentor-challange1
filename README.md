@@ -31,8 +31,8 @@ You can see running project and code here !
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here](https://qrcode-frontendmentor-ja.netlify.app/)
+- Solution URL: [Github code](https://github.com/JakhongirAlijonov/FrontendMentor-challange1)
+- Live Site URL: [Netlify host](https://qrcode-frontendmentor-ja.netlify.app/)
 
 
 
@@ -58,5 +58,6 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [Jakhongir Alijonov](https://github.com/jakhongiralijonov)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JakhongirAlijonov)
+- Frontend Mentor - [FrontendMentor ](https://www.frontendmentor.io/profile/JakhongirAlijonov)
+
 
