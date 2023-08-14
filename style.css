@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: hsl(212, 45%, 89%);
+}
+.container{
+    width: 300px;
+    padding: 10px;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 8px;
+    text-align: center;
+    margin-top: 50px;
+}
+.title{
+    color:  hsl(218, 44%, 22%)
+}
+.text{
+    color: hsl(220, 15%, 55%);
+}
+img{
+    border-radius: 8px;
+}
